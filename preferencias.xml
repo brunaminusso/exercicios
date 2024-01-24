@@ -1,0 +1,63 @@
+<?xml version ="1.0" encoding="utf-8" standalone="yes"?>
+<preferencias>
+    <filmes>
+        <filme>
+            <titulo>Dogville</titulo>
+            <ano_lancamento>2003</ano_lancamento>
+            <elenco_principal>Nicole Kidman, Paul Bettany, Lauren Bacall</elenco_principal>
+            <tipo>Drama</tipo>
+            <sinopse>Uma mulher fugitiva encontra abrigo em uma pequena cidade, mas a aparente hospitalidade esconde segredos sombrios.</sinopse>
+        </filme>
+        <filme>
+            <titulo>A Viagem de Chihiro</titulo>
+            <ano_lancamento>2001</ano_lancamento>
+            <elenco_principal>Rumi Hiiragi, Miyu Irino, Mari Natsuki</elenco_principal>
+            <tipo>Animação e aventura</tipo>
+            <sinopse>Uma garota entra em um mundo mágico para salvar seus pais transformados em porcos.</sinopse>
+        </filme>
+        <filme>
+            <titulo>Ratatouille</titulo>
+            <ano_lancamento>2007</ano_lancamento>
+            <elenco_principal>Patton Oswalt, Ian Holm, Lou Romano</elenco_principal>
+            <tipo>Animação e comédia</tipo>
+            <sinopse>Um rato que sonha em ser chef de cozinha ajuda um jovem cozinheiro a alcançar o sucesso em Paris.</sinopse>
+        </filme>
+    </filmes>
+    <livros>
+        <livro>
+            <titulo>Cem Anos de Solidão</titulo>
+            <autor>Gabriel García Márquez</autor>
+            <ano_lancamento>1967</ano_lancamento>
+            <tipo>Realismo mágico</tipo>
+            <numero_paginas>432</numero_paginas>
+        </livro>
+        <livro>
+            <titulo>Alice no País das Maravilhas</titulo>
+            <autor>Lewis Carroll</autor>
+            <ano_lancamento>1865</ano_lancamento>
+            <tipo>Fantasia</tipo>
+            <numero_paginas>200</numero_paginas>
+        </livro>
+        <livro>
+            <titulo>Memórias do Subsolo</titulo>
+            <autor>Fiodor Dostoievski</autor>
+            <ano_lancamento>1864</ano_lancamento>
+            <tipo>Ficção filosófica</tipo>
+            <numero_paginas>136</numero_paginas>
+        </livro>
+    </livros>
+    <comidas>
+        <comida>
+            <nome>Virado à Paulista</nome>
+            <ingredientes>Arroz, feijão, bisteca, couve refogada, ovo frito, banana à milanesa</ingredientes>
+        </comida>
+        <comida>
+            <nome>Merengue</nome>
+            <ingredientes>Claras de ovos, açúcar, suco de limão</ingredientes>
+        </comida>
+        <comida>
+            <nome>Empada de Palmito</nome>
+            <ingredientes>Massa de empada, palmito, cebola, azeite, temperos</ingredientes>
+        </comida>
+    </comidas>
+</preferencias>
