@@ -1,0 +1,94 @@
+{
+    "preferencias": {
+        "filmes": [
+            {
+                "titulo": "Dogville",
+                "ano_lancamento": 2003,
+                "elenco_principal": [
+                    "Nicole Kidman", 
+                    "Paul Bettany", 
+                    "Lauren Bacall"
+                ],
+                "tipo": "Drama",
+                "sinopse": "Uma mulher fugitiva encontra abrigo em uma pequena cidade, mas a aparente hospitalidade esconde segredos sombrios."
+            },
+            {
+                "titulo": "A Viagem de Chihiro",
+                "ano_lancamento": 2001,
+                "elenco_principal": [
+                    "Rumi Hiiragi", 
+                    "Miyu Irino", 
+                    "Mari Natsuki"
+                ],
+                "tipo": "Animação e aventura",
+                "sinopse": "Uma garota entra em um mundo mágico para salvar seus pais transformados em porcos."
+            },
+            {
+                "titulo": "Ratatouille",
+                "ano_lancamento": 2007,
+                "elenco_principal": [
+                    "Patton Oswalt", 
+                    "Ian Holm", 
+                    "Lou Romano"
+                ],
+                "tipo": "Animação e comédia",
+                "sinopse": "Um rato que sonha em ser chef de cozinha ajuda um jovem cozinheiro a alcançar o sucesso em Paris."
+            }
+        ],
+        "livros": [
+            {
+                "titulo": "Cem Anos de Solidão",
+                "autor": "Gabriel García Márquez",
+                "ano_lancamento": 1967,
+                "tipo": "Realismo mágico",
+                "numero_paginas": 432
+            },
+            {
+                "titulo": "Alice no País das Maravilhas",
+                "autor": "Lewis Carroll",
+                "ano_lancamento": 1865,
+                "tipo": "Fantasia",
+                "numero_paginas": 200
+            },
+            {
+                "titulo": "Memórias do Subsolo",
+                "autor": "Fiodor Dostoievski",
+                "ano_lancamento": 1864,
+                "tipo": "Ficção filosófica",
+                "numero_paginas": 136
+            }
+        ],
+        "comidas": [
+            {
+                "nome": "Virado à Paulista",
+                "ingredientes": [
+                    "Arroz", 
+                    "Feijão", 
+                    "Bisteca", 
+                    "Couve refogada", 
+                    "Ovo frito", 
+                    "Banana à milanesa"
+                ]
+            },
+            {
+                "nome": "Merengue",
+                "ingredientes": [
+                    "Claras de ovos", 
+                    "Açúcar", 
+                    "Suco de limão"
+                ]
+            },
+            {
+                "nome": "Empada de Palmito",
+                "ingredientes": [
+                    "Massa de empada", 
+                    "Palmito", 
+                    "Cebola", 
+                    "Azeite", 
+                    "Temperos"
+                ]
+            }
+        ]
+    }
+}
+  
